@@ -1,0 +1,57 @@
+.container.body{
+background-image: url(img/background.jpg);
+background-size: cover;
+}
+
+.container.header{
+  margin: auto;
+}
+
+.container.nav{
+
+  background-color: green;
+  margin: auto;
+}
+
+.logo{
+  width: 100px;
+  margin: auto;
+}
+
+.logo-text{
+
+  font-size: 25px;
+}
+
+.orange-bar{
+  width: 500px;
+  background-color: orange;
+  color: orange;
+}
+
+.green-bar{
+  width: 1000px;
+  background-color: green;
+  color: green;
+}
+
+.red-bar{
+  width: 250px;
+  background-color: red;
+  color: red;
+}
+
+.Gino22{
+
+  padding: 10px;
+}
+
+.Mike24{
+
+  padding: 10px;
+}
+
+.Fede154{
+
+  padding: 10px;
+}
